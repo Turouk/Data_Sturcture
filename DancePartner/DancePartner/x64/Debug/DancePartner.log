@@ -1,0 +1,3 @@
+﻿  test.cpp
+D:\vs_code\Date_Structure\DancePartner\DancePartner\test.cpp(60): warning C4715: “GetHead”: 不是所有的控件路径都返回值
+  DancePartner.vcxproj -> D:\vs_code\Date_Structure\DancePartner\x64\Debug\DancePartner.exe
