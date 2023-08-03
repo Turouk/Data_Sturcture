@@ -1,0 +1,3 @@
+﻿  TEST.cpp
+D:\vs_code\Date_Structure\ParenthesesMatch\ParenthesesMatch\TEST.cpp(133): warning C4715: “GetTop”: 不是所有的控件路径都返回值
+  ParenthesesMatch.vcxproj -> D:\vs_code\Date_Structure\ParenthesesMatch\x64\Debug\ParenthesesMatch.exe
